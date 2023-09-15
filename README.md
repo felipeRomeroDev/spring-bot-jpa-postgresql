@@ -8,6 +8,6 @@ Este es un proyecto donde se creó una Api para crear, consultar, actualizar y e
 Pasos para instalación:
 
 1._Importar el projecto como Existing Maven Project   
-2.Cambiar el nombre de la base de datos , usuario y contraseña en el archivo Application.properties
+2.Cambiar el nombre de la base de datos , usuario y contraseña en el archivo Application.properties  
 3._Ejecutar Maven Install  
 4._Run Spring Boot App  
