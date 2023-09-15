@@ -5,6 +5,6 @@ API Spring Boot CRUD Rest con Maven que usa Spring Data JPA/Hibernate para inter
 
 Pasos para instalación:
 
-1._Importar el projecto como Existing Maven Project
+1._Importar el projecto como Existing Maven Project \n
 2._Ejecutar Maven Install
 3._Run Spring Boot App
